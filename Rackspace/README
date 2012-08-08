@@ -1,0 +1,5 @@
+The scripts in this directory communicate with Rackspace Open Cloud services
+via the second generation API.
+
+http://docs.rackspace.com/servers/api/v2/cs-devguide/content/ch_preface.html
+
