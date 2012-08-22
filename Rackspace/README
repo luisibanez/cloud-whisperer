@@ -3,3 +3,7 @@ via the second generation API.
 
 http://docs.rackspace.com/servers/api/v2/cs-devguide/content/ch_preface.html
 
+See also the Cloud Files API:
+
+  https://github.com/rackspace/python-cloudfiles/tree/master/cloudfiles
+
