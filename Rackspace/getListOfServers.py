@@ -38,7 +38,7 @@ tokenFile.close()
 
 host='https://dfw.servers.api.rackspacecloud.com/v2/'
 account=token['tenant']['id']
-uri='/servers'
+uri='/servers/detail'
 url=host+account+uri
 
 headers={'X-Auth-Token':token['id']}
